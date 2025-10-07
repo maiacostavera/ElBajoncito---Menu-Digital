@@ -58,4 +58,3 @@ Este proyecto fue creado con fines educativos para mejorar mis habilidades en **
 ---
 
 
-Ejemplo:
